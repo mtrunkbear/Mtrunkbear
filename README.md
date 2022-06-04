@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, congratulations for visiting my profile! 👋
+
+<p>Thank you for being here! </br> I'm Miguel, Fullstack developer and Data scientist, a person passionate about business and technology, currently living in <img src="https://cdn-icons-png.flaticon.com/512/330/330554.png" width="13"/> <b>Santiago, Chile</b></p>
+<h3>I like to code in</h3>
+
 
 <!--
 **mtrunkbear/Mtrunkbear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
