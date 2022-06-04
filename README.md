@@ -13,7 +13,7 @@
    <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/-Python-0016B2?style=flat-square&logo=Python&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-0016B2?style=flat-square&logo=Python&logoColor=yellow" />
   
   
 
