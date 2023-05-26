@@ -1,6 +1,6 @@
 ### Hi there, congratulations for visiting my profile! 👋
 
-<p>Thank you for being here! </br> I'm Miguel, Fullstack developer and Data scientist. I'am a person passionate about business and technology, currently living in  <img src="https://cdn-icons-png.flaticon.com/512/330/330554.png" width="13"/>  <b>Santiago, Chile</b></p>
+<p>Thank you for being here! </br> I'm Miguel, FullStack Developer and Business Analyst. I'am a person passionate about business and technology, currently living in  <img src="https://cdn-icons-png.flaticon.com/512/330/330554.png" width="13"/>  <b>Santiago, Chile</b></p> and working in growing small projects from scratch to big deals!
 <h3>I like to code in</h3>
 
 <p>
