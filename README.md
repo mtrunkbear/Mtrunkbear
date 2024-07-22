@@ -1,4 +1,4 @@
-### Hi there, congratulations for visiting my profile! 👋
+### Hi there, thanks for visiting my profile! 👋
 
 <p>Thank you for being here! </br> I'm Miguel, FullStack Developer and Business Analyst. Passionate about business and technology, currently living in  <img src="https://cdn-icons-png.flaticon.com/512/330/330554.png" width="13"/>  <b>Santiago, Chile</b>,intensely working in growing small projects from scratch to big deals!</p>
 <h3>I like to code in</h3>
